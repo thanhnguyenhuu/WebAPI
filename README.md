@@ -13,7 +13,7 @@ You can run this application in MS Visual Studio 2019.
 The local address for example: https://localhost:44343/swagger/index.html
 
 You may see a different port number when running on you local machine.
-Please you local address:port to update shared.service.ts file of FrontEnd application.
+Please use your local address:port to update shared.service.ts file of FrontEnd application.
 
 File: shared.service.ts 
 readonly APIUrl = "https://localhost:44343/api";
