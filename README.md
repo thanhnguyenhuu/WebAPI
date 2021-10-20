@@ -14,9 +14,11 @@ The local address for example: https://localhost:44343/swagger/index.html
 
 You may see a different port number when running on you local machine.
 
-Please use your local address:port to update shared.service.ts file of FrontEnd application.
+Please use your local https://localhost:[port]/api to update shared.service.ts file of FrontEnd application.
+
 
 File: shared.service.ts 
+
 readonly APIUrl = "https://localhost:44343/api";
 
 Thank you.
