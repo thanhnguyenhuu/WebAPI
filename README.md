@@ -1,7 +1,7 @@
 # WebAPI
 SmarterCity WebAPI Test
 
-This is .Net Core 5 WebAPI created as a test for SmarterCity company.
+This is .Net Core 5 Web API.
 
 This WebAPI is working with MSSQL Server. 
 To create database, please run CreateDatabase.sql file on your MSSQL Server.
