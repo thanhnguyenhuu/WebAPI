@@ -30,9 +30,9 @@ Example customer data for FrontEnd or Web API Post method:
   "mobileNumber": "0412345678",
   "address1": "1/123 White Road",
   "address2": "",
-  "suburb": "Bankstown",
+  "suburb": "Sydney",
   "state": "NSW",
-  "postCode": "2200"
+  "postCode": "2000"
 }
 
 
