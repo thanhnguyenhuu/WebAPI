@@ -21,4 +21,19 @@ File: shared.service.ts
 
 readonly APIUrl = "https://localhost:44343/api";
 
+Example customer data for FrontEnd or Web API Post method:
+
+{
+  "id": 0,
+  "firstName": "Thanh",
+  "lastName": "Nguyen",
+  "mobileNumber": "0412345678",
+  "address1": "1/123 White Road",
+  "address2": "",
+  "suburb": "Bankstown",
+  "state": "NSW",
+  "postCode": "2200"
+}
+
+
 Thank you.
